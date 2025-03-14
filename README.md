@@ -1,0 +1,2 @@
+# 20L-sphere
+openFOAM
